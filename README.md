@@ -3,6 +3,8 @@ Remember the Position
 
 This program generates a random chess position from a PGN file, displays the position on the screen for 10 seconds, and then prompts the user to enter the positions of the pieces on the board. The goal is to correctly identify the positions of all pieces on the board..
 
+[![Preview video](./preview.mp4)
+
 Requirements
 ------------
 
